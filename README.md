@@ -87,7 +87,7 @@ This will prompt you to input feature values and then predict the price of the d
 Below are the screenshots of ChatGPT feature values and the model's prediction.
 
 1. **Feature Values**  
-   ![Feature Values](path/to/feature_values_screenshot.png)
+   ![Image](https://github.com/user-attachments/assets/2f26fc22-7176-4efe-b848-6bccc7fe4ffe)
 
 2. **Price Prediction**  
    ![Image](https://github.com/user-attachments/assets/5e08adce-0493-41af-80ad-8b4520b127b5)
