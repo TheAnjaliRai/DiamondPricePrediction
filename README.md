@@ -90,7 +90,7 @@ Below are the screenshots of ChatGPT feature values and the model's prediction.
    ![Feature Values](path/to/feature_values_screenshot.png)
 
 2. **Price Prediction**  
-   ![Price Prediction](path/to/prediction_screenshot.png)
+   ![Image](https://github.com/user-attachments/assets/5e08adce-0493-41af-80ad-8b4520b127b5)
 
 ## 📃 License
 
