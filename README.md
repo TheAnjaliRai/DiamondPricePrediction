@@ -11,19 +11,6 @@
 - **Depth**: Depth percentage of the diamond.
 - **Table**: Table percentage of the diamond.
 
-### Example Inputs (ChatGPT for Feature Values):
-Provide input values here (from ChatGPT or your own data) and a screenshot of the predictions.
-
-- **Carat**: 0.5
-- **Cut**: Ideal
-- **Color**: G
-- **Clarity**: VS1
-- **Depth**: 62.5%
-- **Table**: 58%
-
-**Prediction Example**:  
-Provide a screenshot of ChatGPT's answers and the model's price prediction here.
-
 ## 🔧 Technologies Used
 
 - **Python**: The primary programming language.
